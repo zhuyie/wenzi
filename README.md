@@ -1,2 +1,2 @@
-# xiqitext
-xiqitext is a simple text layout/rendering library.
+# wenzi
+wenzi is a simple text layout/rendering library.
